@@ -1,6 +1,8 @@
 <div align="center"><h1>Human Resources Management System Database Tables</h1> </div>
 <div align="center"><h2>İnsan Kaynakları Yönetim Projesi Veritabanı Tabloları</h2> </div>
 
+<div align="center"><h3> 🚩 PostgreSQL programı ve isimlendirme standartları kullanılmıştır. 🚩</h3> </div>
+
 <table>
   <tr>
     <td>users</td>
