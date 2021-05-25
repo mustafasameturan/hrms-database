@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# HRMS-Project
- 
-=======
 <div align="center"><h1>Human Resources Management System Database Tables</h1> </div>
 <div align="center"><h2>İnsan Kaynakları Yönetim Projesi Veritabanı Tabloları</h2> </div>
 
@@ -121,4 +117,4 @@ confirmed_date | date
    </td>
   </tr>
  </table>
->>>>>>> ac8a11b6f402c138ba9bbcda99c99c986b9ceb54
+
